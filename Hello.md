@@ -41,3 +41,13 @@ Git add
 ![Картинка](https://bipbap.ru/wp-content/uploads/2017/04/000f_7290754.jpg)
 
 [Работа с markdown](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
+
+## Работа со списками
+
+1. Один
+2. Два
+
+*
+*
++
++
