@@ -40,3 +40,15 @@ Git add
 ![Картинка природа](https://avatars.mds.yandex.net/i?id=9e33779c06093e3e40fcc5443f0f647d4d58183d-7756218-images-thumbs&n=13)
 
 [Работа с markdowm](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
+
+## Работа со списками
+
+1. Один
+2. Два
+
+*
+*
++
++
+-
+-
